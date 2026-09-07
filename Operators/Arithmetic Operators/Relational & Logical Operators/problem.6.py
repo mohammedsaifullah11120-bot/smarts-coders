@@ -5,9 +5,9 @@ a=int(input("enter the number"))
 b=int(input("enter the number"))
 
 if a>b:
-    print("a is the greatest")
+    print("the greatest is",a)
 
 
 else:
-    print("is the gretest")
+    print("the gretest is",b)
 

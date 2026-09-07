@@ -1,0 +1,1 @@
+		# 3	Calculate simple interest given P, R, T → (P × R × T) / 100	Resource Link

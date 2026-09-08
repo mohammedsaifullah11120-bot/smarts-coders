@@ -1,3 +1,0 @@
-
-
-# Swap two numbers using XOR
